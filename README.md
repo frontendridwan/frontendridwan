@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @frontendridwan
 - 👀 I’m interested in Web Developer
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning PHP, CSS and SASS
 - 💞️ I’m looking to collaborate on web project
 - 📫 How to reach me instagram.com/_ridwan23
 
